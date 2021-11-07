@@ -1,0 +1,21 @@
+{
+    "filmes":[
+    {
+        "titulo":"A origem",
+        "ano":"2010",
+        "resumo":"Dom Cobb é um ladrão com a rara habilidade de roubar segredos do inconsciente, obtidos durante o estado de sono. Impedido de retornar para sua família, ele recebe a oportunidade de se redimir ao realizar uma tarefa aparentemente impossível: plantar uma ideia na mente do herdeiro de um império. Para realizar o crime perfeito, ele conta com a ajuda do parceiro Arthur, o discreto Eames e a arquiteta de sonhos Ariadne. Juntos, eles correm para que o inimigo não antecipe seus passos."
+     
+     
+     },
+
+     {
+        "titulo":"Meu amigo totoro",
+        "ano":"1988",
+        "resumo":"As irmãs Satsuki e Mei se mudam para o campo para ficar mais perto do hospital onde sua mãe está internada. Lá conhecem os Totoros, adoráveis criaturas místicas e alegres, que só podem ser vistas pelas crianças. Com eles, as duas irmãs viverão mágicas aventuras no campo."
+
+     }
+
+    ]
+
+
+}
